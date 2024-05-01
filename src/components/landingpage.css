@@ -1,0 +1,9 @@
+canvas {
+    background-color: rgb(255, 255, 255);
+    touch-action: none;
+    position: relative;
+    background-image: url('../assets/image21.png'); /* Set the path to your background image */
+    background-size: contain; /* Ensure the background image covers the entire canvas */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;
+  }
